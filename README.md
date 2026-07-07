@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 AI & Full Stack Engineer | LLMs | Systems Architecture | Cloud Infrastructure engineer 💦</h2>
+  <h2>💦 AI & Full Stack Engineer 💦</h2>
 </div>
 
 I am an **AI and Full-Stack Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
