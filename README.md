@@ -92,6 +92,10 @@ On the infrastructure side, I specialize in **cloud native architectures (AWS/GC
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" /><br>Nginx</td>
 </tr>
 </table>
+
+### Last 30 Days Work
+![Harper's GitHub Last 30 Days](https://github-readme-activity-graph.vercel.app/graph?username=HarperCodeLabs&theme=react-dark&hide_border=true&area=true&range=30)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:f59e0b&section=footer" width="100%" alt="Animated pink-to-amber wave divider" />
 </div>
