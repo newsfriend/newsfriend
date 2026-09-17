@@ -1,28 +1,26 @@
 <div align="center">
-  <h2>💦 AI & Full Stack Engineer 💦</h2>
+  <h2>💦Senior Applied AI & Full Stack Engineer 💦</h2>
 </div>
 
 Exceeding expectations. Building products that move businesses forward.
 
-As I'm a senior software engineer, I led a full-stack software engineering team focused on delivering scalable, high-performance digital products across web, mobile, cloud, AI, and automation platforms.
+I’m a Senior Applied AI & Full-Stack Engineer with around 10 years of hands-on experience building scalable, high-performance digital products across web, cloud, AI, and automation platforms.
 
-I help startups, growing businesses, and product teams design, build, and scale production-ready applications with modern architecture and practical AI integration.
+I help startups, growing businesses, and product teams design, build, and scale production-ready applications using modern architecture, reliable backend systems, intuitive frontend experiences, and practical AI integration.
 
-With 7+ years of hands-on engineering experience and a broader team with 7+ years delivering digital products, we build software that is scalable, maintainable, secure, and aligned with business outcomes from day one.
+My core stack includes Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, AWS, Docker, and Kubernetes. I focus on building software that is scalable, maintainable, secure, and aligned with real business outcomes from day one.
 
-From architecture and MVP development to deployment and long-term scaling, we focus on turning ideas into reliable products that improve operations, automate workflows, and create better user experiences.
+From system architecture and feature development to deployment, testing, performance optimization, and long-term scaling, I work across the full product lifecycle to turn ideas into reliable products that improve operations, automate workflows, and create better user experiences.
 
-What We Deliver AI-powered business automation and workflow systems Custom web applications and SaaS platforms Cross-platform mobile applications Scalable backend systems, APIs, and cloud architecture E-commerce solutions with Shopify, BigCommerce, WooCommerce, and Magento Product optimization, testing, monitoring, and CI/CD UI/UX-focused product development Blockchain and dApp product development AI & Automation Expertise
+My recent work has focused heavily on AI-powered applications, including LLM-based systems, RAG pipelines, semantic search, embeddings, vector databases, model orchestration, prompt engineering, structured outputs, AI evaluation, guardrails, fallback strategies, and human-in-the-loop workflows.
 
-I specialize in applying AI where it creates measurable product value:
+I also build scalable backend services, REST APIs, microservices, third-party integrations, database-driven applications, cloud infrastructure, CI/CD pipelines, and production monitoring systems. On the frontend, I work with React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsive design, and reusable component architectures.
 
-Intelligent workflow automation LLM-powered assistants and conversational systems Recommendation engines and personalization Predictive analytics and data-driven product features Integration with OpenAI APIs and custom ML services End-to-end AI pipelines from data processing to deployment Core Strengths End-to-end ownership
+I specialize in applying AI where it creates measurable product value, whether that means automating business workflows, improving access to knowledge, building intelligent assistants, processing documents, supporting semantic search, or creating reliable AI-powered user experiences.
 
-From product planning and system architecture to deployment and scaling.
+My engineering approach is centered on end-to-end ownership, scalable architecture, strong testing, performance, reliability, and practical decision-making. I care about clean code, clear communication, maintainable systems, and choosing technologies based on the problem rather than hype.
 
-Scalable architecture Built for performance, maintainability, and long-term growth. Business-first engineering Technology choices focused on speed, cost-efficiency, and product outcomes. Reliable execution Clear communication, clean code, and practical delivery.
-
-If you need a software engineer that can architect, build, and scale modern digital products — while integrating practical AI capabilities where they create real business value — I'm ready to help.
+If you need a senior engineer who can architect, build, and scale modern full-stack products while integrating production-ready AI capabilities where they create real business value, I’m ready to help.
 
 <br/>
 
