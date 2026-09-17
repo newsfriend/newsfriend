@@ -27,6 +27,7 @@ If you need a senior engineer who can architect, build, and scale modern full-st
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
+
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
@@ -123,30 +124,31 @@ If you need a senior engineer who can architect, build, and scale modern full-st
     <br>Linux
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/LLM-Generative_AI-111111?style=for-the-badge" height="48" alt="LLM" />
-    <br>LLMs
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/RAG-Retrieval_AI-111111?style=for-the-badge" height="48" alt="RAG" />
-    <br>RAG
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/AI_Agents-Agents-111111?style=for-the-badge" height="48" alt="AI Agents" />
-    <br>AI Agents
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+    <br>CSS3
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/Vector_DB-Semantic_Search-111111?style=for-the-badge" height="48" alt="Vector Databases" />
-    <br>Vector DB
+    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
+    <br>CI/CD
   </td>
   <td align="center" width="96">
-    <img src="https://img.shields.io/badge/Prompt_Engineering-LLM-111111?style=for-the-badge" height="48" alt="Prompt Engineering" />
-    <br>Prompt Eng.
+    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Cloud Infrastructure" />
+    <br>Cloud Infra
   </td>
 </tr>
+
 </table>
 
 ### Last 30 Days Work
-![Mate's GitHub Last 30 Days](https://github-readme-activity-graph.vercel.app/graph?username=StackCodeLabs&theme=react-dark&hide_border=true&area=true&range=30)
+![Friend's GitHub Last 30 Days](https://github-readme-activity-graph.vercel.app/graph?username=newsfriend&theme=react-dark&hide_border=true&area=true&range=30)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ec4899,100:f59e0b&section=footer" width="100%" alt="Animated pink-to-amber wave divider" />
