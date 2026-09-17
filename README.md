@@ -30,118 +30,142 @@ If you need a senior engineer who can architect, build, and scale modern full-st
 
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AI" />
+    <br>AI
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
     <br>Python
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
     <br>FastAPI
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
     <br>TypeScript
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
     <br>JavaScript
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
     <br>React
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
     <br>Next.js
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
     <br>Node.js
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
     <br>Express.js
   </td>
+</tr>
+
+<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
     <br>Tailwind CSS
   </td>
-</tr>
 
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
     <br>PostgreSQL
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     <br>Redis
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
     <br>MySQL
   </td>
+
   <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
     <br>GraphQL
   </td>
+
   <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
     <br>REST API
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
     <br>Docker
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
     <br>Kubernetes
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-    <br>Terraform
   </td>
 </tr>
 
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+    <br>Terraform
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
     <br>AWS
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
     <br>GCP
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
     <br>GitHub Actions
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
     <br>Linux
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     <br>Git
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
     <br>HTML5
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
     <br>CSS3
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
     <br>CI/CD
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Cloud Infrastructure" />
-    <br>Cloud Infra
   </td>
 </tr>
 
