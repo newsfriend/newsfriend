@@ -4,7 +4,7 @@
 
 Exceeding expectations. Building products that move businesses forward.
 
-I’m a Senior Applied AI & Full-Stack Engineer with around 10 years of hands-on experience building scalable, high-performance digital products across web, cloud, AI, and automation platforms.
+I’m a Senior Applied AI & Full-Stack Engineer with around senior level years of hands-on experience building scalable, high-performance digital products across web, cloud, AI, and automation platforms.
 
 I help startups, growing businesses, and product teams design, build, and scale production-ready applications using modern architecture, reliable backend systems, intuitive frontend experiences, and practical AI integration.
 
